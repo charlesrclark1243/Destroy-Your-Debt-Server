@@ -29,11 +29,11 @@ computer updates the balances, Google Drive sync carries them to your other devi
 
 ## Install
 
-Clone or copy this project:
+Clone this repository:
 
 ```bash
-git clone <your repository URL> destroy-your-debt-server
-cd destroy-your-debt-server
+git clone https://github.com/charlesrclark1243/Destroy-Your-Debt-Server.git
+cd Destroy-Your-Debt-Server
 ```
 
 There's nothing to install with npm. Optionally, run the tests to check everything works on your
